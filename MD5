@@ -1,0 +1,13 @@
+78a1104f70620df562c8304bcd54a2b2 *DESCRIPTION
+82ce62ceca964b2b673044bca689fb73 *NAMESPACE
+b9f2c34bc7c030f56d55e18dabdf77f2 *R/AutoSeed.r
+f7ddbdc7b95366610793f83ea6066006 *data/drugbank.rda
+2067533de9ab91cfb36f24799c80d3c6 *data/edgar.rda
+8777b7563c564cb6532335c19bae7717 *data/mala.rda
+e3dfdf87e76191b19bb8a8d6b2ddff7c *man/AutoSeed.Rd
+ce03cca5997f3a84c36272028994b687 *man/drugbank.Rd
+03daa045af36f0b9d8a53e36f31cd3fb *man/drugbank_disease_gene.Rd
+895f46468dc5382c2196d8146a64c904 *man/edgar.Rd
+c3ecdc9a39e455ce6ffd5d53a0c98025 *man/edgar_disease_gene.Rd
+33c19a80c42b339eb534149c75d6c244 *man/mala.Rd
+fa0f33bd81b47b662ce64e4b168d1d70 *man/malacards_disease_gene.Rd
